@@ -78,5 +78,3 @@ awx-mcp-server/
 
 ---
 
-*Generado automáticamente por awx_mcp.py*
-
